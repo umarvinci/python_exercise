@@ -1,2 +1,2 @@
 # python_exercise
-exercise of python codingproblems
+exercise of python coding problems
